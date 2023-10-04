@@ -2,7 +2,7 @@
 
 The **peachpuff legacy** is the legacy version of the default PeachPuff theme in Vim, which received a color revamp in version 9.0. 
 
-# Screenshots
+## Screenshot
 ![img](https://i.imgur.com/xnAWaXP.png)
 
 ## Installation
