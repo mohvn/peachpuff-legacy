@@ -1,4 +1,11 @@
-# Peachpuff Legacy
+<p align="center">
+    <a href="https://github.com/m0cb/peachpuff-legacy/">
+        <img src="https://i.imgur.com/g2YBU7S.png" width="500"></a>
+    <br><br>
+    <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/vim-019733.svg?style=flat&logo=Vim&logoColor=white"></a>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/junegunn/vim-plug"><img src="https://img.shields.io/badge/vim_plug-019733.svg?style=flat&logo=Vim&logoColor=white"></a>
+</p>
 
 The **peachpuff legacy** is the legacy version of the default PeachPuff theme in Vim, which received a color revamp in version 9.0. 
 
